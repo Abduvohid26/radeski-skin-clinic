@@ -1,0 +1,6 @@
+{
+  "name": "Radeski Skin Clinic",
+  "description": "Radeski Skin & Aesthetic Clinic uchun beacons.ai uslubidagi mobil va desktop moslashuvchan link-in-bio ilovasi. Elegant to'q qizil (burgundy) va oltin ranglar uyg'unligida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
