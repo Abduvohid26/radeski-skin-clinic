@@ -7,7 +7,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = 3011;
 
 // Initialize Gemini SDK with telemetry User-Agent header
 const ai = new GoogleGenAI({
